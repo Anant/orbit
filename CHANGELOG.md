@@ -44,7 +44,7 @@ was ruled out, and why — lives in `.manage/` and `.knowledge/`, not here.
   `projectId`, and answers with `added` / `linked` / `skipped` / `rejected`.
 - **Copy import report** in the extension popup: each request, its status, and the field *names*
   of the first row it held. Never values — the report is meant to be pasted into an issue.
-- **The project's own context lives in the repository**, in the [Arkitype](https://github.com/xingh/arkitype)
+- **The project's own context lives in the repository**, in the [Arkitype](https://github.com/Anant/arkitype)
   layout: `.knowledge/` (what is true), `.arkitype/` (how Orbit is constituted, in layers),
   `.manage/` (one file per GitHub issue, plus the roadmap), `.archive/` (what was done), and a
   `manage` script to move work between them.
