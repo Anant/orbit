@@ -8,8 +8,8 @@
 
 Claude · ChatGPT · Codex · Claude Code, with your own subscriptions. No API keys.
 
-[![Latest release](https://img.shields.io/github/v/release/xingh/orbit?label=download&color=2ea98f)](https://github.com/xingh/orbit/releases/latest)
-[![CI](https://github.com/xingh/orbit/actions/workflows/ci.yml/badge.svg)](https://github.com/xingh/orbit/actions/workflows/ci.yml)
+[![Latest release](https://img.shields.io/github/v/release/Anant/orbit?label=download&color=2ea98f)](https://github.com/Anant/orbit/releases/latest)
+[![CI](https://github.com/Anant/orbit/actions/workflows/ci.yml/badge.svg)](https://github.com/Anant/orbit/actions/workflows/ci.yml)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-11%2B-111111?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-AppImage%20%7C%20deb-FCC624?logo=linux&logoColor=black)
@@ -17,7 +17,7 @@ Claude · ChatGPT · Codex · Claude Code, with your own subscriptions. No API k
 
 <img src="docs/screenshots/demo.gif" width="360" alt="Orbit: resting, finding and filtering 1081 saved chats, a project and its chats, and the robot turned off" />
 
-**[⬇ Download Orbit](https://github.com/xingh/orbit/releases/latest)**
+**[⬇ Download Orbit](https://github.com/Anant/orbit/releases/latest)**
 
 </div>
 
@@ -58,7 +58,7 @@ content, because what Orbit stores is the titles of someone's conversations.</su
 
 ## Download
 
-Grab the file for your computer from the **[latest release](https://github.com/xingh/orbit/releases/latest)**:
+Grab the file for your computer from the **[latest release](https://github.com/Anant/orbit/releases/latest)**:
 
 | Your computer | File to download |
 | --- | --- |
@@ -93,7 +93,7 @@ The builds aren't code-signed yet, so your computer may warn you the first time:
 
 The launcher currently shows web chat only. The native subscription gate and terminal adapters
 below are built and tested, but are not offered in the UI while the browser extension and history
-import settle; [issue #5](https://github.com/xingh/orbit/issues/5) tracks bringing them back.
+import settle; [issue #5](https://github.com/Anant/orbit/issues/5) tracks bringing them back.
 Projects saved with a coding tool keep their **Open coding tool** button.
 
 ## How Orbit protects your subscriptions
@@ -243,7 +243,7 @@ worth knowing, because all three have bitten a real import:
   is enough to fix a mapping.
 
 Web chat only: Claude Code and Codex are launched from Orbit itself rather than saved from a
-browser. [Issue #5](https://github.com/xingh/orbit/issues/5) tracks supporting them.
+browser. [Issue #5](https://github.com/Anant/orbit/issues/5) tracks supporting them.
 
 ### What the service will and will not do
 

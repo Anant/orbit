@@ -4,7 +4,7 @@ title: "Orbit Feature: After clicking find for folder or thread , the cursor sho
 state: open
 opened: 2026-11-01
 closed:
-github: https://github.com/xingh/orbit/issues/32
+github: https://github.com/Anant/orbit/issues/32
 owner: file
 arkitype: [04]
 prerequisites: []

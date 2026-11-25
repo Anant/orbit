@@ -4,7 +4,7 @@ title: A chat deleted or archived at the provider should not linger forever
 state: in-progress
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/9
+github: https://github.com/Anant/orbit/issues/9
 owner: file
 arkitype: [02, 03, 04]
 prerequisites: []

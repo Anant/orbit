@@ -4,7 +4,7 @@ title: Support Claude Code and Codex sessions in the extension and history impor
 state: open
 opened: 2026-10-19
 closed:
-github: https://github.com/xingh/orbit/issues/5
+github: https://github.com/Anant/orbit/issues/5
 owner: github
 arkitype: [03, 04]
 prerequisites: []

@@ -4,7 +4,7 @@ title: A chat renamed at the provider should update in Orbit
 state: done
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/8
+github: https://github.com/Anant/orbit/issues/8
 owner: file
 arkitype: [02, 03]
 prerequisites: []

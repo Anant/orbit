@@ -4,7 +4,7 @@ title: "Orbit Feature: Local area scanning (Craigslist/Nextdoor scan list + craw
 state: open
 opened: 2026-11-01
 closed:
-github: https://github.com/xingh/orbit/issues/36
+github: https://github.com/Anant/orbit/issues/36
 owner: file
 arkitype: []
 prerequisites: []

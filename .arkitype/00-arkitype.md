@@ -9,7 +9,7 @@ SITE PROFILE:
   identifier: md.tekt.orbit
   version: 0.1.0
   publisher: Tekt
-  repository: https://github.com/xingh/orbit
+  repository: https://github.com/Anant/orbit
   tagline: A tiny robot on your desktop that starts, finds and organises your AI chats.
   purpose: >
     A floating desktop companion that launches AI chat sites signed in as the user already is, and

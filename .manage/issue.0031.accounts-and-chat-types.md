@@ -4,7 +4,7 @@ title: "Orbit Feature - organize by account and chat type"
 state: open
 opened: 2026-11-01
 closed:
-github: https://github.com/xingh/orbit/issues/31
+github: https://github.com/Anant/orbit/issues/31
 owner: file
 arkitype: [02, 03, 04]
 prerequisites: [issue.0006.per-item-storage.md]

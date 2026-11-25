@@ -16,7 +16,7 @@ ROADMAP.md                      sequence and dependencies; never archived
 ```
 
 The number is the join to GitHub. `issue.0005.code-tools-in-launcher.md` is
-`https://github.com/xingh/orbit/issues/5`.
+`https://github.com/Anant/orbit/issues/5`.
 
 The **file is the source of truth** for work we raised ourselves; the issue carries a copy of it so
 that it reads on its own for someone who only ever sees GitHub. `./manage sync <number>` pushes the
@@ -39,7 +39,7 @@ title: ...
 state: open              # open | in-progress | done
 opened: 2026-10-19
 closed:                  # filled in when it moves to .archive/
-github: https://github.com/xingh/orbit/issues/5
+github: https://github.com/Anant/orbit/issues/5
 owner: file              # file | github — only `file` may be overwritten by `manage sync`
 arkitype: [03, 04]       # which layers it changes
 prerequisites: []        # other files here that must land first

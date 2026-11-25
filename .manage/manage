@@ -43,7 +43,7 @@ cmd_new() {
   if [[ "$number" == "draft" ]]; then
     label=draft; link=""
   elif [[ "$number" =~ ^[0-9]+$ ]]; then
-    label=$(printf '%04d' "$number"); link="https://github.com/xingh/orbit/issues/${number}"
+    label=$(printf '%04d' "$number"); link="https://github.com/Anant/orbit/issues/${number}"
   else
     err "number must be digits or the word draft"; return 1
   fi
