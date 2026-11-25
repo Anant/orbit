@@ -4,7 +4,7 @@ title: "Orbit Feature - assign tasks / start chats in the right project across a
 state: open
 opened: 2026-11-01
 closed:
-github: https://github.com/xingh/orbit/issues/33
+github: https://github.com/Anant/orbit/issues/33
 owner: file
 arkitype: [03, 04]
 prerequisites: [issue.0031.accounts-and-chat-types.md, issue.0035.new-chat-from-a-project-row.md]

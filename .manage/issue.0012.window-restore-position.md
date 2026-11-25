@@ -4,7 +4,7 @@ title: Reappear where it was, or centred — never somewhere arbitrary
 state: open
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/12
+github: https://github.com/Anant/orbit/issues/12
 owner: file
 arkitype: [04]
 prerequisites: []

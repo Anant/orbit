@@ -4,7 +4,7 @@ title: Confirm why 21 of 34 Claude projects import
 state: done
 opened: 2026-10-23
 closed: 2026-10-28
-github: https://github.com/xingh/orbit/issues/13
+github: https://github.com/Anant/orbit/issues/13
 owner: file
 arkitype: [03]
 prerequisites: []

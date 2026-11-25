@@ -4,7 +4,7 @@ title: Linux / * - in low res screens the bot is too bit ,and the panel takes up
 state: in-progress
 opened: 2026-10-20
 closed:
-github: https://github.com/xingh/orbit/issues/4
+github: https://github.com/Anant/orbit/issues/4
 owner: github
 arkitype: [04]
 prerequisites: []

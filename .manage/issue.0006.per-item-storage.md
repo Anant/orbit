@@ -4,7 +4,7 @@ title: Per-item storage with timestamps and tombstones
 state: open
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/6
+github: https://github.com/Anant/orbit/issues/6
 owner: file
 arkitype: [02]
 prerequisites: []

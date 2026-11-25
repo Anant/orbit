@@ -11,8 +11,8 @@ was ruled out, and why — lives in `.manage/` and `.knowledge/`, not here.
 ### Added
 
 - **The index mirrors the provider, rather than remembering what used to be there**
-  ([#8](https://github.com/xingh/orbit/issues/8),
-  [#9](https://github.com/xingh/orbit/issues/9)). A title the provider has changed replaces the
+  ([#8](https://github.com/Anant/orbit/issues/8),
+  [#9](https://github.com/Anant/orbit/issues/9)). A title the provider has changed replaces the
   stored one, and a project the provider no longer lists — deleted or archived — is removed. On a
   real workspace the first run refreshed 498 titles, 28 of them projects, and removed 2 projects
   whose links had been 404ing for months.
@@ -22,10 +22,10 @@ was ruled out, and why — lives in `.manage/` and `.knowledge/`, not here.
   take more than a third of what Orbit can see. Only the project lists sweep: the chat lists are
   walked by `offset` over a list ordered by recency, where a chat updated mid-walk shifts pages and
   is never seen.
-- **The extension is Orbit Link** ([#28](https://github.com/xingh/orbit/issues/28)), and every
+- **The extension is Orbit Link** ([#28](https://github.com/Anant/orbit/issues/28)), and every
   release attaches it as `Orbit-Link-<version>.zip` beside the installers, with per-browser
   instructions for loading it.
-- **The panel opens where there is room** ([#4](https://github.com/xingh/orbit/issues/4)). Below
+- **The panel opens where there is room** ([#4](https://github.com/Anant/orbit/issues/4)). Below
   the robot when it fits, above it near the bottom of the screen, and diagonally away from a corner,
   with the robot left exactly where it was put.
 - **The pill shows only on hover** (or keyboard focus), so a resting Orbit is just the robot.
@@ -39,7 +39,7 @@ was ruled out, and why — lives in `.manage/` and `.knowledge/`, not here.
   the entry touched.
 - **The 3D robot can be turned off** (Preferences → 3D robot). Off, it leaves a flat mark, never
   fetches the renderer at all — Three.js moved into its own 482 KB chunk — and gives the window
-  about 100 points of height back. Groundwork for [#17](https://github.com/xingh/orbit/issues/17).
+  about 100 points of height back. Groundwork for [#17](https://github.com/Anant/orbit/issues/17).
 - **The companion service accepts projects**, with per-kind deduplication and a validated
   `projectId`, and answers with `added` / `linked` / `skipped` / `rejected`.
 - **Copy import report** in the extension popup: each request, its status, and the field *names*
@@ -58,14 +58,14 @@ was ruled out, and why — lives in `.manage/` and `.knowledge/`, not here.
 
 ### Changed
 
-- **The widget fits a small screen** ([#4](https://github.com/xingh/orbit/issues/4)). The open
+- **The widget fits a small screen** ([#4](https://github.com/Anant/orbit/issues/4)). The open
   companion stays inside a fifth of the monitor's work area, scaling down from its design size to
   a 330×430 floor, with a tighter layout below 430 points wide. Measured at 330×529 on a
   1280×680 work area, against a hard-coded 510×820 before.
 - **The saved list is one line per entry**, so the same screen area shows about as many threads as
   the provider's own sidebar does. It showed four.
 - The launcher offers web chat only while the extension and import settle;
-  [#5](https://github.com/xingh/orbit/issues/5) tracks bringing Claude Code and Codex back.
+  [#5](https://github.com/Anant/orbit/issues/5) tracks bringing Claude Code and Codex back.
 
 ### Fixed
 

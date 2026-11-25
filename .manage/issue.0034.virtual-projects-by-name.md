@@ -4,7 +4,7 @@ title: "Orbit Feature : show combined project list"
 state: open
 opened: 2026-10-29
 closed:
-github: https://github.com/xingh/orbit/issues/34
+github: https://github.com/Anant/orbit/issues/34
 owner: file
 arkitype: [02, 03, 04]
 prerequisites: [issue.0006.per-item-storage.md, issue.0007.workspace-api.md]

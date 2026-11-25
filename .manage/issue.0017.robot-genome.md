@@ -4,7 +4,7 @@ title: The robot as a declarative genome
 state: open
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/17
+github: https://github.com/Anant/orbit/issues/17
 owner: file
 arkitype: [04]
 prerequisites: []

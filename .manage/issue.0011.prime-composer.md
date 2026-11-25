@@ -4,7 +4,7 @@ title: Send a prompt to a found chat — prime the composer, never submit
 state: open
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/11
+github: https://github.com/Anant/orbit/issues/11
 owner: file
 arkitype: [03, 04]
 prerequisites: []

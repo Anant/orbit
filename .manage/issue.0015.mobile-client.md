@@ -4,7 +4,7 @@ title: Mobile client — read-only PWA over the server API, able to start chats
 state: open
 opened: 2026-10-23
 closed:
-github: https://github.com/xingh/orbit/issues/15
+github: https://github.com/Anant/orbit/issues/15
 owner: file
 arkitype: [01, 03, 04]
 prerequisites: [issue.0007.workspace-api.md, issue.0014.shared-workspaces.md]

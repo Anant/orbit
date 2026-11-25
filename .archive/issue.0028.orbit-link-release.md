@@ -4,7 +4,7 @@ title: "Orbit Link: name the browser extension and attach it to every release"
 state: done
 opened: 2026-10-31
 closed: 2026-11-01
-github: https://github.com/xingh/orbit/issues/28
+github: https://github.com/Anant/orbit/issues/28
 owner: file
 arkitype: [01, 04]
 prerequisites: []
