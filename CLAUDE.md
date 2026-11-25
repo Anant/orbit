@@ -7,7 +7,7 @@ extension in `browser-extension/`.
 ## Read these first
 
 This repository keeps its own context, in the Arkitype layout
-([method](https://github.com/xingh/arkitype)). GitHub issues are intake and tracking **for other
+([method](https://github.com/Anant/arkitype)). GitHub issues are intake and tracking **for other
 people**; these folders are the project's memory, and they travel with the checkout.
 
 | Folder | What belongs there |

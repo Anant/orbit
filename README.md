@@ -113,7 +113,7 @@ API-key environment variables (`ANTHROPIC_API_KEY`, `OPENAI_API_KEY`, …) are r
 
 ## Project context
 
-Orbit keeps its own context in the repository, in the [Arkitype](https://github.com/xingh/arkitype)
+Orbit keeps its own context in the repository, in the [Arkitype](https://github.com/Anant/arkitype)
 layout, so the thinking travels with the source even though GitHub is where work is taken in:
 
 | Folder | What is in it |
